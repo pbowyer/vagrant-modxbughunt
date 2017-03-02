@@ -1,0 +1,10 @@
+puphpet/config-custom.yaml
+.vagrant/
+html/
+
+modx/web/*
+!modx/web/.gitkeep
+modx10/web/*
+!modx10/web/.gitkeep
+modx20/web/*
+!modx20/web/.gitkeep
